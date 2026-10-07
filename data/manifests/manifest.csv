@@ -1,0 +1,1001 @@
+path,class,label,split
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3510.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2367.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4236.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4470.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc119.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc369.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1076.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3229.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3244.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2511.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2046.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca340.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4448.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca407.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3435.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4541.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2917.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4145.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4293.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1684.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4404.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3034.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1152.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4388.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4258.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3037.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3027.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3564.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn913.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2876.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3936.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2621.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1403.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca723.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4393.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn181.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4351.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca897.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3063.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca732.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3278.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca678.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4574.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2539.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca827.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc96.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn401.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn818.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1937.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3888.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn900.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4381.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2113.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2054.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2070.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn594.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2411.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3768.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3407.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2538.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca547.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca479.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1586.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1478.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn219.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn977.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4605.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3254.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca135.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3388.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2907.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3252.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4644.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2871.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3548.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca321.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2494.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3199.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3643.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn669.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4300.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1293.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2009.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3876.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1718.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4789.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn386.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3667.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2229.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4114.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4591.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3158.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn150.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3221.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2339.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3550.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3091.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2093.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca437.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1988.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc861.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca98.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4121.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4472.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2055.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3674.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn642.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca812.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2186.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4473.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4958.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc78.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn89.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4810.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1681.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca703.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4501.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4516.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2262.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1375.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1473.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3894.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2352.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3109.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1017.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4328.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4012.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2173.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4547.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2545.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2806.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn291.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4526.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4601.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1442.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2349.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1908.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4277.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn589.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1249.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2882.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc438.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1830.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2883.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1077.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1218.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3051.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4637.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2943.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca48.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1052.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2897.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca445.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3213.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2952.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca382.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn94.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2753.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4808.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1547.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4212.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4031.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2732.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3103.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1186.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3602.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3024.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn742.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2521.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3135.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn276.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1720.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3824.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3223.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2840.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4444.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2370.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4597.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2416.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3987.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2749.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2607.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2422.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca808.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1308.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4386.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3478.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3937.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3958.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2758.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1569.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn905.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn929.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc974.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2811.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4827.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1979.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2971.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4735.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1012.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn861.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1192.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1745.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1231.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2534.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1733.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3216.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2567.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4371.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3028.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca348.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn896.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4893.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn369.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2252.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2076.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3049.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2584.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn217.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2190.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1536.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3173.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca521.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4579.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4654.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1267.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca7.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4147.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4505.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca401.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2523.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn406.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2216.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3123.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4975.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3839.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3086.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca869.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4316.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4405.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1163.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2018.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1880.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca338.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2499.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4753.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca694.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1561.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3424.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1454.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1574.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4712.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2972.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc330.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn450.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2833.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1575.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1637.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn56.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca77.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3334.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1078.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca93.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4510.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3913.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4011.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3487.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2252.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3400.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1208.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4182.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1493.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3423.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3873.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4572.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1365.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1101.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1995.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2939.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca78.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3772.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca733.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4232.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3134.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2158.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4677.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4287.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1400.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2507.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2085.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2425.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1050.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2108.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca140.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2814.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca183.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3268.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1936.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1152.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1367.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2543.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn952.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn747.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4397.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2813.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3369.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2926.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3121.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1614.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3298.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2855.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3796.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4089.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4802.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3996.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4672.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2269.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc474.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4754.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1850.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca740.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn562.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn999.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3847.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc21.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn811.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1994.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1538.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3260.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2672.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc982.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1641.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1506.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca629.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2021.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4389.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3828.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1392.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2285.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4550.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3966.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4900.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4445.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1729.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3618.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1537.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2020.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn157.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2263.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4930.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3504.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4451.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3165.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1015.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4325.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3213.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4717.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1498.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1527.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2049.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca384.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc565.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3375.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1617.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1443.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3806.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn543.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3906.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1621.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3711.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn268.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2514.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4866.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2539.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc406.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca421.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2862.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2068.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3540.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3818.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3077.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1525.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3595.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn584.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn514.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4359.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2894.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca59.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn692.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2946.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1061.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc389.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4829.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3002.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1673.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3644.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3610.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn739.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3625.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn295.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn764.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2303.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1522.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3574.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2149.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2940.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3249.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1884.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2027.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1395.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4520.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc679.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3369.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4347.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3814.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1966.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2829.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4366.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2092.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn901.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc423.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4093.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2663.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2914.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4400.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4973.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2817.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1211.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4445.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4125.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn984.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3254.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1465.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3570.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1107.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc836.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3612.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2076.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc30.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2384.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2335.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn231.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2571.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc736.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3970.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3629.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2448.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc721.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca124.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1776.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2276.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2372.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3467.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2275.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn920.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3235.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1043.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1100.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca582.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1725.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1575.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3678.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3631.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1244.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca670.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3680.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1300.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3026.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4391.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca334.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1659.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1658.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca5000.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4691.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4263.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1828.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1620.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1596.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1464.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1391.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3455.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2679.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4795.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca524.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3768.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3023.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4737.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3789.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4499.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3429.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1569.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn538.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1691.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1370.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2589.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca317.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4283.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc56.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4298.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1870.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4899.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1477.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1607.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3066.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3244.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1794.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1862.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3815.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn635.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3558.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2729.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn21.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4757.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3528.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1749.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1412.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3402.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3604.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4718.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2418.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3028.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1236.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4536.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1223.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2639.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4902.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3725.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3727.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2958.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn867.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3367.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3851.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca8.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1185.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1529.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3836.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3840.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2053.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1669.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc967.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1124.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4628.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1447.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3822.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca675.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc994.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2228.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca477.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2833.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2764.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2552.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn532.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1849.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn786.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3717.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3344.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2440.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2069.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4851.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1299.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2770.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca413.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2163.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2379.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2709.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2044.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1753.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4119.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4588.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2717.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4968.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3345.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1239.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca137.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4107.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1377.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1646.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn482.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2632.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4271.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1026.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4705.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4841.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3696.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3737.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2816.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4121.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2040.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2621.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4919.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3385.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2826.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn65.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2516.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn991.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2357.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2030.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2996.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc707.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4152.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2141.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc741.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4832.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn884.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3316.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1258.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1505.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2797.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2321.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1554.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3695.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3288.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1848.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn523.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1033.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1030.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2678.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3067.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3963.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn713.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2827.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca942.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca478.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1867.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn846.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1703.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3831.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3521.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4995.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4909.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1426.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca153.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4245.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4015.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1295.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3803.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4972.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca246.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4889.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4377.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn804.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc450.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2936.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2878.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3899.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4105.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4186.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2747.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3196.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2554.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca952.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4337.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1160.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca300.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca583.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4468.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1104.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4822.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3708.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn700.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3490.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4273.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2104.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc952.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1350.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3200.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1704.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3056.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca425.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4671.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca11.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4447.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn48.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3890.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1225.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc146.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3357.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2419.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn189.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2222.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4706.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4398.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4193.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3514.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3965.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4798.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4537.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4250.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn225.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4192.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4443.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1971.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1384.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn866.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4956.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4652.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4705.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3951.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4941.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca281.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4712.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4592.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2909.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2887.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca337.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3883.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3507.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4966.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc896.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3564.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc834.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1657.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4057.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca87.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2576.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3940.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4896.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2795.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2867.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1425.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1068.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2042.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2691.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc170.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4191.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2238.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca758.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn330.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4904.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1231.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3363.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3634.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca37.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc616.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca916.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1129.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3535.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3149.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1764.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2258.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1174.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4071.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn682.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4308.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4572.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1901.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn281.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4699.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4494.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn646.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4457.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4106.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1156.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1953.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3657.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4529.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3656.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca797.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2705.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1550.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4006.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3593.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc386.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3333.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3011.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3215.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4602.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1092.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1544.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2798.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4316.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4380.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2972.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca811.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4775.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2361.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3425.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn415.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2123.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc116.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2316.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4578.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2349.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca946.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2056.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2957.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3272.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn103.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn126.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1880.jpeg,colon_n,Colon Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1332.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4954.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4587.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3228.jpeg,lung_scc,Lung Squamous Cell Carcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1511.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1478.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2249.jpeg,lung_n,Lung Benign,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1681.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1177.jpeg,colon_aca,Colon Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4301.jpeg,lung_aca,Lung Adenocarcinoma,train
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1661.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3403.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca119.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4862.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn937.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1070.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2788.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1392.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3815.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4576.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3515.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2798.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2586.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca920.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1459.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4759.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca396.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1321.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca425.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca197.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2888.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2434.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4294.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4640.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4610.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4811.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4205.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3607.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1059.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn56.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3484.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3456.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3129.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3228.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1744.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1599.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4176.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3966.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3380.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3771.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4904.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3179.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4241.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3987.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1719.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn201.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1682.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1463.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4069.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2208.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc980.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3958.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3885.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3234.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2688.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4846.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2307.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4051.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1969.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4503.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc695.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn730.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4163.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2623.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2256.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3796.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1416.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca923.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3706.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1681.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc326.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2988.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4140.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2838.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn554.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4008.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn329.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2945.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3926.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2375.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1791.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn181.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4519.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1219.jpeg,lung_n,Lung Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3904.jpeg,colon_n,Colon Benign,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1276.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca534.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc818.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2535.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2630.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2979.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1135.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc816.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2966.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc181.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca14.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3928.jpeg,lung_scc,Lung Squamous Cell Carcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4118.jpeg,lung_aca,Lung Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca713.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1018.jpeg,colon_aca,Colon Adenocarcinoma,val
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2954.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3830.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1794.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca905.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca292.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4965.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2488.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3767.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn651.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4487.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3395.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3452.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4509.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3782.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1414.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn4109.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3028.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1461.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn3897.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca587.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca183.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4671.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1213.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2817.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2296.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3081.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4994.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2231.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4817.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3367.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2730.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2735.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1529.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1866.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca1077.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4343.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1439.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3410.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2602.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn607.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1591.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4132.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2997.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4347.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3482.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn274.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn815.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1612.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2825.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2624.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn512.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2649.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc4132.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3554.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2285.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1639.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca3750.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2469.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca132.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca204.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4659.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn742.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn586.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2125.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2203.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc2872.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca1405.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn2416.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn320.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca938.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2374.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc3718.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1106.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn502.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn1621.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4264.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1524.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc922.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn3469.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4363.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc374.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4078.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4297.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn2301.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4003.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn188.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc1021.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca4661.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn701.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc34.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_scc\lungscc291.jpeg,lung_scc,Lung Squamous Cell Carcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4186.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_n\lungn744.jpeg,lung_n,Lung Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca2617.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca4752.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca3652.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\lung_image_sets\lung_aca\lungaca2544.jpeg,lung_aca,Lung Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn4960.jpeg,colon_n,Colon Benign,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_aca\colonca721.jpeg,colon_aca,Colon Adenocarcinoma,test
+C:\Users\Abirami Ramanathan\Desktop\PROJECTS\IP-Proj\proj-ip\lung_colon_image_set\colon_image_sets\colon_n\colonn1787.jpeg,colon_n,Colon Benign,test
