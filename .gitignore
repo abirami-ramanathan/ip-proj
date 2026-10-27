@@ -1,13 +1,10 @@
-data/raw/
+﻿data/raw/
 __pycache__/
 *.pyc
 .venv/
 results/
 models/
 lung_colon_image_set/
-.venv/
-__pycache__/
-*.pyc
 .ipynb_checkpoints/
 models/*.pt
 models/*.pth
@@ -16,3 +13,6 @@ models/*.pkl
 *.keras
 *.ckpt
 .env
+outputs/models/*.pt
+outputs/models/*.pth
+outputs/models/*.ckpt

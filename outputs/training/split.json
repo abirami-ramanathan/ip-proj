@@ -1,0 +1,31 @@
+{
+  "train": [
+    "lung_colon_image_set\\colon_image_sets\\colon_aca\\colonca10.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_aca\\lungaca1001.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_scc\\lungscc10.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_aca\\lungaca100.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_n\\lungn1000.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_scc\\lungscc100.jpeg",
+    "lung_colon_image_set\\colon_image_sets\\colon_n\\colonn1001.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_n\\lungn10.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_n\\lungn100.jpeg",
+    "lung_colon_image_set\\colon_image_sets\\colon_n\\colonn100.jpeg",
+    "lung_colon_image_set\\colon_image_sets\\colon_aca\\colonca100.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_n\\lungn1001.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_aca\\lungaca1000.jpeg",
+    "lung_colon_image_set\\colon_image_sets\\colon_n\\colonn10.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_scc\\lungscc1000.jpeg",
+    "lung_colon_image_set\\colon_image_sets\\colon_aca\\colonca1000.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_aca\\lungaca10.jpeg",
+    "lung_colon_image_set\\colon_image_sets\\colon_n\\colonn1000.jpeg",
+    "lung_colon_image_set\\colon_image_sets\\colon_aca\\colonca1001.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_scc\\lungscc1001.jpeg"
+  ],
+  "test": [
+    "lung_colon_image_set\\colon_image_sets\\colon_aca\\colonca1.jpeg",
+    "lung_colon_image_set\\colon_image_sets\\colon_n\\colonn1.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_aca\\lungaca1.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_n\\lungn1.jpeg",
+    "lung_colon_image_set\\lung_image_sets\\lung_scc\\lungscc1.jpeg"
+  ]
+}
